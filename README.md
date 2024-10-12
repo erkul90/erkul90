@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @erkul90
 - standart sapma formülü:
 ![image](https://github.com/user-attachments/assets/6fd64737-816b-467d-9369-5de56705d233)
+bunun karesi varyansdır
 
 
 
